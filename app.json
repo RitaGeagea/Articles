@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "articles-app",
-    "slug": "articles-app",
+    "name": "Articles",
+    "slug": "Articles",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
